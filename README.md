@@ -13,10 +13,10 @@ Prérequis
 - Clé API ScraperAPI (pour contourner les restrictions Amazon)
 - Bot Telegram avec token d’accès
 - Librairies Python : requests, python-telegram-bot, beautifulsoup4
-- 
+
 Installation
 - Clonez ce dépôt :
-git clone https://github.com/votre-utilisateur/PokemaniakTrackr.git
+git clone https://github.com/fullya99/AmazonStockTrackr.git
 cd AmazonStockTrackr
 
 - Installez les dépendances :
@@ -34,7 +34,6 @@ Lancez le bot avec la commande :
 
 python main.py
 
-
 Le bot vérifiera périodiquement la disponibilité et le prix des produits listés, et vous enverra une notification Telegram dès qu’un produit est disponible et vendu par Amazon.
 
 Personnalisation
@@ -50,8 +49,8 @@ Limitations et avertissements
 
 Contribution
 
-Les contributions sont les bienvenues ! N’hésitez pas à ouvrir une issue ou une pull request.
+- Les contributions sont les bienvenues ! N’hésitez pas à ouvrir une issue ou une pull request.
 
 Licence
 
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+- Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
