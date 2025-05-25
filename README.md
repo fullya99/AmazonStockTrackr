@@ -1,4 +1,4 @@
-mazonStockTrackr est un bot automatisé conçu pour surveiller la disponibilité et le prix de produits sur Amazon, et envoyer des alertes en temps réel via Telegram. Il permet aux passionnés de ne plus manquer les sorties ou les bonnes affaires sur leurs articles préférés.
+AmazonStockTrackr est un bot automatisé conçu pour surveiller la disponibilité et le prix de produits sur Amazon, et envoyer des alertes en temps réel via Telegram. Il permet aux passionnés de ne plus manquer les sorties ou les bonnes affaires sur leurs articles préférés.
 
 Fonctionnalités principales
 - Surveillance automatique des produits Pokémon sur Amazon.
